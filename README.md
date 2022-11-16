@@ -9,3 +9,5 @@ https://www.darkreading.com/attacks-breaches/public-exposure-does-little-to-slow
 https://www.cyberscoop.com/thrip-lotus-blossom-symantec-china/
 
 https://brica.de/alerts/alert/public/1275554/symantec-uncovered-the-link-between-china-linked-thrip-and-billbug-groups/
+
+https://www.securityweek.com/chinese-cyberespionage-group-billbug-targets-certificate-authority
